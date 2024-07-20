@@ -1,6 +1,6 @@
 Project Overview
 Repository Name: custom-weather-gpt
-Languages Used: JavaScript 
+Languages Used: JavaScript
 Description: This repository does have a detailed description, but it appears to be a weather application built using JavaScript.
 
 Key Files and Directories
