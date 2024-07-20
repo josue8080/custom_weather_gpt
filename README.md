@@ -2,9 +2,8 @@ Project Overview
 Repository Name: custom-weather-gpt
 Languages Used: JavaScript
 
-
 Key Files and Directories
-app.js: Likely the main application file where the core logic resides.
+app.js: the main application file where the core logic resides.
 package.json: Contains metadata about the project and its dependencies
 Basic Setup
 To get started with this project, you would typically follow these steps:
