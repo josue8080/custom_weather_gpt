@@ -10,7 +10,8 @@ To get started with this project, you would typically follow these steps:
  
 Clone the Repository:
 git clone https://github.com/josue8080/custom-weather-gpt.git
-cd custom-weather-gpt_
+cd custom-weather-gpt__
+
 
 Install Dependencies:
 npm install
