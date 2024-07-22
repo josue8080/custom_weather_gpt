@@ -4,7 +4,7 @@ Languages Used: JavaScript
 
 Key Files and Directories
 app.js: the main application file where the core logic resides.
-package.json: Contains metadata about the project and its dependencies
+package.json: Contins metadata about the project and its dependencies
 Basic Setup
 To get started with this project, you would typically follow these steps:
  
